@@ -10,15 +10,18 @@ This branch contains the Python script packaged into a ZIP file along with a bat
 ## How to Use
 
 1. **Download the ZIP File**:
-   - Go to the [Zip_Version branch](https://github.com/your-username/PDF_Decrypt/tree/Zip_Version).
+   - Go to the [Zip_Version branch](https://github.com/MR-Vall/PDF_Unlocker/tree/Zip_Version).
    - Click the "Code" button and download the ZIP file.
 
 2. **Extract the ZIP File**:
-   - Extract the downloaded ZIP file to a convenient location on your computer.
+   -Locate the downloaded ZIP file on your computer.
+   -Right-click the ZIP file and select "Extract All...".
+   -Choose a destination folder to extract the files to and click "Extract".
 
 3. **Run the Script**:
-   - Open the extracted folder.
-   - Double-click on `run_script.bat` to run the script.
+   -Open the folder where you extracted the ZIP file.
+   -Find the file named `run_script.bat`.
+   -Double-click on `run_script.bat` to run the tool. This will also create a shortcut on your desktop. (Optional)
 
 ## Troubleshooting
 
